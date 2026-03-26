@@ -2,3 +2,20 @@
     box-sizing: border-box;
 }
 
+h1{
+    color: white;
+    background-color: grey;
+}
+
+h2{
+    color: green;
+    margin: 10px;
+}
+p{
+    color: green
+}
+footer{
+    color: white;
+}
+
+
