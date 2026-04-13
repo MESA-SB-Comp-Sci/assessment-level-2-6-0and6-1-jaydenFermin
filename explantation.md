@@ -6,5 +6,5 @@ feedback:
 .border1 {
      background color: white;
      padding-bottom: 50px;
-     border: sold 30px yellow;
+     border: solid 30px yellow;
 }

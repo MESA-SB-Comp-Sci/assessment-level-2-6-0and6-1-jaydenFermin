@@ -2,20 +2,33 @@
     box-sizing: border-box;
 }
 
-h1{
+body{
+    background-color: red
+}
+
+.p2{
+    color: greenyellow;
+}
+
+.p3{
+    color: blue;
+}
+.border1{
+   border: 5px solid rgb(0, 123, 255);
+    background-color: yellowgreen;
+    padding-bottom: 5px;
+    height: 100px;
+}
+.footer-color-white{
+    color: hotpink;
+}
+
+
+#main-heading-style{
     color: white;
-    background-color: grey;
+    background-color: pink;
 }
 
-h2{
-    color: green;
-    margin: 10px;
+.p1{
+    color: burlywood;
 }
-p{
-    color: green
-}
-footer{
-    color: white;
-}
-
-
